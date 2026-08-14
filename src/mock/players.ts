@@ -15,7 +15,7 @@ export const mockTeamPlayers: Player[] = [
     "rank": 1,
     "stars": 5,
     "nickname": "anonimo22",
-    "avatarUrl": "../assets/anonimo22.webp"
+    "avatarUrl": "../assets/anonimo22.jpg"
   },
   {
     "id": 1,
@@ -23,7 +23,7 @@ export const mockTeamPlayers: Player[] = [
     "rank": 1,
     "stars": 5,
     "nickname": "Botijão de gás cromado",
-    "avatarUrl": "../assets/Botijão de gás cromado.webp"
+    "avatarUrl": "../assets/botijao.jpg"
   },
   {
     "id": 1,
@@ -31,7 +31,7 @@ export const mockTeamPlayers: Player[] = [
     "rank": 1,
     "stars": 5,
     "nickname": "Luladroid3000",
-    "avatarUrl": "../assets/Luladroid3000.webp"
+    "avatarUrl": "../assets/Luladroid3000.png"
   },
   {
     "id": 1,
@@ -39,7 +39,7 @@ export const mockTeamPlayers: Player[] = [
     "rank": 1,
     "stars": 5,
     "nickname": "CREATOR0110",
-    "avatarUrl": "../assets/CREATOR0110.webp"
+    "avatarUrl": "../assets/CREATOR0110.png"
   },
   {
     "id": 1,
@@ -47,7 +47,7 @@ export const mockTeamPlayers: Player[] = [
     "rank": 1,
     "stars": 5,
     "nickname": "Enigma_Hardcore2023",
-    "avatarUrl": "../assets/Enigma_Hardcore2023.webp"
+    "avatarUrl": "../assets/Enigma_Hardcore2023.jpg"
   },
   {
     "id": 1,
@@ -55,15 +55,7 @@ export const mockTeamPlayers: Player[] = [
     "rank": 1,
     "stars": 5,
     "nickname": "CLT",
-    "avatarUrl": "../assets/CLT.webp"
-  },
-  {
-    "id": 1,
-    "score": 3,
-    "rank": 1,
-    "stars": 5,
-    "nickname": "c",
-    "avatarUrl": "../assets/c.webp"
+    "avatarUrl": "../assets/CLT.jpg"
   },
   {
     "id": 1,
@@ -71,7 +63,7 @@ export const mockTeamPlayers: Player[] = [
     "rank": 1,
     "stars": 5,
     "nickname": "𝔪𝔢𝔫𝔦𝔫𝔬 𝔡𝔞 𝔳𝔦𝔩𝔞",
-    "avatarUrl": "../assets/𝔪𝔢𝔫𝔦𝔫𝔬 𝔡𝔞 𝔳𝔦𝔩𝔞.webp"
+    "avatarUrl": "../assets/meninodavila.jpg"
   },
   {
     "id": 1,
@@ -87,7 +79,7 @@ export const mockTeamPlayers: Player[] = [
     "rank": 1,
     "stars": 5,
     "nickname": "lokfn",
-    "avatarUrl": "../assets/lokfn.webp"
+    "avatarUrl": "../assets/lokfn.png"
   },
   {
     "id": 1,
@@ -95,7 +87,7 @@ export const mockTeamPlayers: Player[] = [
     "rank": 1,
     "stars": 5,
     "nickname": "aldãobtos",
-    "avatarUrl": "https://drive.google.com/open?id=1IrOqVSIIpflDVuE481q51ednMhzwEZD7"
+    "avatarUrl": "../assets/aldaobtos.jpg"
   },
   {
     "id": 1,
@@ -103,7 +95,7 @@ export const mockTeamPlayers: Player[] = [
     "rank": 1,
     "stars": 5,
     "nickname": "𝔅𝔞𝔡𝔟𝔬𝔶𝔡𝔢𝔟𝔞𝔯𝔯𝔢𝔱𝔬𝔰",
-    "avatarUrl": "https://drive.google.com/open?id=10u_Ubl4Ra8obyZv2gWsHEquGi8mnPr3-"
+    "avatarUrl": "../assets/badboy.jpg"
   },
   {
     "id": 1,
@@ -111,7 +103,7 @@ export const mockTeamPlayers: Player[] = [
     "rank": 1,
     "stars": 5,
     "nickname": "sonegador de imposto",
-    "avatarUrl": "https://drive.google.com/open?id=1-oQfrArR-yIz1SI-XH0Q-G_UXNiyc2Ft"
+    "avatarUrl": "../assets/sonegadordeimposto.webp"
   },
   {
     "id": 1,
@@ -119,7 +111,7 @@ export const mockTeamPlayers: Player[] = [
     "rank": 1,
     "stars": 5,
     "nickname": "Paula Tejano",
-    "avatarUrl": "https://drive.google.com/open?id=1ArBm0XsY2wQy2v8RiVYnvSLOVOf8P5Zh"
+    "avatarUrl": "../assets/PaulaTejano.png"
   },
   {
     "id": 1,
@@ -127,7 +119,7 @@ export const mockTeamPlayers: Player[] = [
     "rank": 1,
     "stars": 5,
     "nickname": "Thomas tur",
-    "avatarUrl": "https://drive.google.com/open?id=1d_1coD6S8JCzgkdsqYCR4faO1yRNl6i0"
+    "avatarUrl": "../assets/Thomastur.jpg"
   },
   {
     "id": 1,
@@ -135,7 +127,7 @@ export const mockTeamPlayers: Player[] = [
     "rank": 1,
     "stars": 5,
     "nickname": "꧁𓆩BlackSwan𓆪꧂",
-    "avatarUrl": "https://drive.google.com/open?id=10LOXtm3qIV6aACv2-vZOAkVmiXJsMFj0"
+    "avatarUrl": "../assets/BlackSwan.png"
   },
   {
     "id": 1,
@@ -143,7 +135,7 @@ export const mockTeamPlayers: Player[] = [
     "rank": 1,
     "stars": 5,
     "nickname": "Scooby",
-    "avatarUrl": "https://drive.google.com/open?id=1m6_uZ7xEbKWMrBrQd86IaC3qGqVMAkMs"
+    "avatarUrl": "../assets/Scooby.png"
   },
   {
     "id": 1,
@@ -151,7 +143,7 @@ export const mockTeamPlayers: Player[] = [
     "rank": 1,
     "stars": 5,
     "nickname": "😈😈",
-    "avatarUrl": "https://drive.google.com/open?id=1WWe2sE3smJ6KN92d-fzswxTX2Dm125qc"
+    "avatarUrl": "../assets/evil_laugh.png"
   },
   {
     "id": 1,
@@ -159,7 +151,7 @@ export const mockTeamPlayers: Player[] = [
     "rank": 1,
     "stars": 5,
     "nickname": "nanamin",
-    "avatarUrl": "https://drive.google.com/open?id=1X65E1hxmhDaZ5qsqjvOObNhwAJxtSpHo"
+    "avatarUrl": "../assets/nanamin.png"
   },
   {
     "id": 1,
@@ -167,15 +159,7 @@ export const mockTeamPlayers: Player[] = [
     "rank": 1,
     "stars": 5,
     "nickname": "oreia ou gaylherme",
-    "avatarUrl": "https://drive.google.com/open?id=1BWk0gOTOqMrmT4DYS4jfYQN2FJgyqbGL"
-  },
-  {
-    "id": 1,
-    "score": 3,
-    "rank": 1,
-    "stars": 5,
-    "nickname": "Scooby",
-    "avatarUrl": "https://drive.google.com/open?id=1Pwex74hjFdzyZNXd_S0ZJnPS2WNcyiCX"
+    "avatarUrl": "../assets/oreia.jpg"
   },
   {
     "id": 1,
@@ -183,7 +167,7 @@ export const mockTeamPlayers: Player[] = [
     "rank": 1,
     "stars": 5,
     "nickname": "anonimo 8",
-    "avatarUrl": "https://drive.google.com/open?id=1r6F2Sfe-grJyYKbmZFitBM5wFcm5nnCY"
+    "avatarUrl": "../assets/anonimo8.webp"
   },
   {
     "id": 1,
@@ -191,7 +175,7 @@ export const mockTeamPlayers: Player[] = [
     "rank": 1,
     "stars": 5,
     "nickname": "Japônes",
-    "avatarUrl": "https://drive.google.com/open?id=1xTALemaDy7ZW7Wb5VY3h1YRF11zoz0B3"
+    "avatarUrl": "../assets/japones.jpg"
   },
   {
     "id": 1,
@@ -199,6 +183,6 @@ export const mockTeamPlayers: Player[] = [
     "rank": 1,
     "stars": 5,
     "nickname": "Pimpolho",
-    "avatarUrl": "https://drive.google.com/open?id=1jl2fG1ybmlw5dhUpqiZDKI6CIWrMoNgn"
+    "avatarUrl": "../assets/pimpolho.jpg"
   }
 ]
