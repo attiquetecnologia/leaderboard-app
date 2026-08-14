@@ -3,6 +3,5 @@ export interface Player {
   rank: number;
   nickname: string;
   avatarUrl: string;
-  score: number;
   stars: number; // 0 a 5
 }

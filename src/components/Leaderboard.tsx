@@ -63,7 +63,10 @@ export const Leaderboard: React.FC<LeaderboardProps> = ({
   players,
   title = 'LEADERBOARD',
 }) => {
-  const sortedPlayers = [...players].sort((a, b) => a.rank - b.rank);
+  const sortedPlayers = [...players].sort((a, b) => {
+    if (a.rank !== b.rank) return a.rank - b.rank;
+    return b.stars - a.stars;
+  });
 
   return (
     <div className="w-full max-w-md mx-auto bg-[#0a1128] border-2 border-blue-600/40 rounded-3xl p-5 shadow-[0_0_30px_rgba(37,99,235,0.2)] text-white">
@@ -106,12 +109,8 @@ export const Leaderboard: React.FC<LeaderboardProps> = ({
 
               {/* Estrelas */}
               <StarRating count={player.stars} maxStars={6} />
-
-              {/* Score */}
-              <span className="font-mono font-extrabold text-xs text-white">
-                {player.score.toLocaleString()}
-              </span>
             </div>
+            <hr></hr>
           </div>
         ))}
       </div>
