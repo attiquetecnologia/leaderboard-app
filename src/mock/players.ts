@@ -5,12 +5,12 @@ export const mockTeamPlayers: Player[] = [
     "id": 1,
     "score": 3,
     "rank": 1,
-    "stars": 5,
+    "stars": 3,
     "nickname": "katara o avatar da Água",
     "avatarUrl": "../assets/katara.webp"
   },
   {
-    "id": 1,
+    "id": 2,
     "score": 3,
     "rank": 1,
     "stars": 5,
@@ -18,7 +18,7 @@ export const mockTeamPlayers: Player[] = [
     "avatarUrl": "../assets/anonimo22.jpg"
   },
   {
-    "id": 1,
+    "id": 3,
     "score": 3,
     "rank": 1,
     "stars": 5,
@@ -26,7 +26,7 @@ export const mockTeamPlayers: Player[] = [
     "avatarUrl": "../assets/botijao.jpg"
   },
   {
-    "id": 1,
+    "id": 4,
     "score": 3,
     "rank": 1,
     "stars": 5,
@@ -34,7 +34,7 @@ export const mockTeamPlayers: Player[] = [
     "avatarUrl": "../assets/Luladroid3000.png"
   },
   {
-    "id": 1,
+    "id": 5,
     "score": 3,
     "rank": 1,
     "stars": 5,
@@ -42,7 +42,7 @@ export const mockTeamPlayers: Player[] = [
     "avatarUrl": "../assets/CREATOR0110.png"
   },
   {
-    "id": 1,
+    "id": 6,
     "score": 3,
     "rank": 1,
     "stars": 5,
@@ -50,7 +50,7 @@ export const mockTeamPlayers: Player[] = [
     "avatarUrl": "../assets/Enigma_Hardcore2023.jpg"
   },
   {
-    "id": 1,
+    "id": 7,
     "score": 3,
     "rank": 1,
     "stars": 5,
@@ -58,7 +58,7 @@ export const mockTeamPlayers: Player[] = [
     "avatarUrl": "../assets/CLT.jpg"
   },
   {
-    "id": 1,
+    "id": 8,
     "score": 3,
     "rank": 1,
     "stars": 5,
@@ -66,7 +66,7 @@ export const mockTeamPlayers: Player[] = [
     "avatarUrl": "../assets/meninodavila.jpg"
   },
   {
-    "id": 1,
+    "id": 9,
     "score": 3,
     "rank": 1,
     "stars": 5,
@@ -74,7 +74,7 @@ export const mockTeamPlayers: Player[] = [
     "avatarUrl": "../assets/Minecraft+Gravidade.webp"
   },
   {
-    "id": 1,
+    "id": 10,
     "score": 3,
     "rank": 1,
     "stars": 5,
@@ -82,7 +82,7 @@ export const mockTeamPlayers: Player[] = [
     "avatarUrl": "../assets/lokfn.png"
   },
   {
-    "id": 1,
+    "id": 11,
     "score": 3,
     "rank": 1,
     "stars": 5,
@@ -90,7 +90,7 @@ export const mockTeamPlayers: Player[] = [
     "avatarUrl": "../assets/aldaobtos.jpg"
   },
   {
-    "id": 1,
+    "id": 12,
     "score": 3,
     "rank": 1,
     "stars": 5,
@@ -98,7 +98,7 @@ export const mockTeamPlayers: Player[] = [
     "avatarUrl": "../assets/badboy.jpg"
   },
   {
-    "id": 1,
+    "id": 13,
     "score": 3,
     "rank": 1,
     "stars": 5,
@@ -106,7 +106,7 @@ export const mockTeamPlayers: Player[] = [
     "avatarUrl": "../assets/sonegadordeimposto.webp"
   },
   {
-    "id": 1,
+    "id": 14,
     "score": 3,
     "rank": 1,
     "stars": 5,
@@ -114,7 +114,7 @@ export const mockTeamPlayers: Player[] = [
     "avatarUrl": "../assets/PaulaTejano.png"
   },
   {
-    "id": 1,
+    "id": 15,
     "score": 3,
     "rank": 1,
     "stars": 5,
@@ -122,7 +122,7 @@ export const mockTeamPlayers: Player[] = [
     "avatarUrl": "../assets/Thomastur.jpg"
   },
   {
-    "id": 1,
+    "id": 16,
     "score": 3,
     "rank": 1,
     "stars": 5,
@@ -130,7 +130,7 @@ export const mockTeamPlayers: Player[] = [
     "avatarUrl": "../assets/BlackSwan.png"
   },
   {
-    "id": 1,
+    "id": 17,
     "score": 3,
     "rank": 1,
     "stars": 5,
@@ -138,7 +138,7 @@ export const mockTeamPlayers: Player[] = [
     "avatarUrl": "../assets/Scooby.png"
   },
   {
-    "id": 1,
+    "id": 18,
     "score": 3,
     "rank": 1,
     "stars": 5,
@@ -146,7 +146,7 @@ export const mockTeamPlayers: Player[] = [
     "avatarUrl": "../assets/evil_laugh.png"
   },
   {
-    "id": 1,
+    "id": 19,
     "score": 3,
     "rank": 1,
     "stars": 5,
@@ -154,7 +154,7 @@ export const mockTeamPlayers: Player[] = [
     "avatarUrl": "../assets/nanamin.png"
   },
   {
-    "id": 1,
+    "id": 20,
     "score": 3,
     "rank": 1,
     "stars": 5,
@@ -162,7 +162,7 @@ export const mockTeamPlayers: Player[] = [
     "avatarUrl": "../assets/oreia.jpg"
   },
   {
-    "id": 1,
+    "id": 21,
     "score": 3,
     "rank": 1,
     "stars": 5,
@@ -170,15 +170,15 @@ export const mockTeamPlayers: Player[] = [
     "avatarUrl": "../assets/anonimo8.webp"
   },
   {
-    "id": 1,
+    "id": 22,
     "score": 3,
     "rank": 1,
-    "stars": 5,
+    "stars": 6,
     "nickname": "Japônes",
     "avatarUrl": "../assets/japones.jpg"
   },
   {
-    "id": 1,
+    "id": 23,
     "score": 3,
     "rank": 1,
     "stars": 5,

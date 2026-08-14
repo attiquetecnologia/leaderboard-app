@@ -105,7 +105,7 @@ export const Leaderboard: React.FC<LeaderboardProps> = ({
               </span>
 
               {/* Estrelas */}
-              <StarRating count={player.stars} />
+              <StarRating count={player.stars} maxStars={6} />
 
               {/* Score */}
               <span className="font-mono font-extrabold text-xs text-white">
