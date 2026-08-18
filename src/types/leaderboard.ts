@@ -1,7 +1,10 @@
+export const MAX_STARS = 5;
+
 export interface Player {
   id: string | number;
   rank: number;
   nickname: string;
   avatarUrl: string;
-  stars: number; // 0 a 5
+  /** Pontuação de 0 a MAX_STARS. */
+  stars: number;
 }

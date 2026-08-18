@@ -52,7 +52,7 @@ export const mockTeamPlayers: Player[] = [
   },
   {
     "id": 8,
-    "rank": 22,
+    "rank": 23,
     "stars": 2,
     "nickname": "𝔪𝔢𝔫𝔦𝔫𝔬 𝔡𝔞 𝔳𝔦𝔩𝔞",
     "avatarUrl": "../assets/meninodavila.jpg"
